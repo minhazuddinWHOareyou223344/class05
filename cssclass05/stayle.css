@@ -1,0 +1,30 @@
+.minhaz{
+    width: 400px;
+    color: aliceblue;
+    
+    text-align: center;
+    margin: 20px auto;
+    box-sizing: border-box;
+    padding: 20px 40px;
+    background-image: url(../cssclass05/bg1.jpg);
+    background-repeat: repeat;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 30px;
+    
+}
+.minhaz p{
+    text-align:center ;
+    color: aquamarine;
+    font-size: 15px
+    
+    
+
+}
+.minhaz a{
+    background-color: brown;
+    color: aliceblue;
+    padding:  15px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+}
